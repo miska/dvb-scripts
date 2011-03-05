@@ -1,0 +1,9 @@
+dvbstreamer scripts
+===================
+
+This is the collection of hopefully helpful scripts to be used with
+dvbstreamer[1] utility. Ultimate goal is to create a set of scripts that will
+implement all functionality to make recording from TV with multiple adapters
+and multiple TV channels on each multiplex easy with low dependencies.
+
+[1] http://dvbstreamer.sourceforge.net/
